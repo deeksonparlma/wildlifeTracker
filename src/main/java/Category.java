@@ -58,7 +58,7 @@ public class Category {
 
     public void save() {
         try(Connection con = DB.sql2o.open()) {
-            String sql = "INSERT INTO category (category) VALUES (:category,)";
+            String sql = "INSERT INTO category (category) VALUES (:category)";
             this.id= (int) con.createQuery(sql, true)
                     .addParameter("category", this.type)
                     .executeUpdate()
