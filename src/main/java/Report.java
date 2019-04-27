@@ -1,5 +1,8 @@
 import org.sql2o.Connection;
 
+import java.sql.Timestamp;
+import java.util.Timer;
+
 public class Report {
     private String rangerName;
     private String category;
@@ -8,14 +11,27 @@ public class Report {
     private String health;
     private String age;
     private int id;
-    public Report(String rangername,String category, String zone,String name,String health,String age){
+    private int categoryId;
+    private Timer timer;
+    private Timestamp time;
+
+    public Report(String rangername,String category, String zone,String name,String health,String age,int categoryId){
       this.rangerName = rangername;
       this.category = category;
       this.zone = zone;
-      this.rangerName = rangername;
+      this.categoryId = categoryId;
       this.name = name;
       this.health =health;
       this.age = age;
+      this.timer = new Timer();
+    }
+
+    public Timestamp getTime() {
+        return time;
+    }
+
+    public Timer getTimer() {
+        return timer;
     }
 
     public String getCategory() {
@@ -45,11 +61,15 @@ public class Report {
     public int getId() {
         return id;
     }
+
+    public int getCategoryId() {
+        return categoryId;
+    }
     //functionality//
 
     public void save() {
         try(Connection con = DB.sql2o.open()) {
-            String sql = "INSERT INTO sighting (rangername, category, zone, name, health, age, categoryid) VALUES (:rangername, :category, :zone, :name , :health , :age , :categoryid)";
+            String sql = "INSERT INTO sighting (rangername, category, zone, name, health, age, categoryid, time) VALUES (:rangername, :category, :zone, :name , :health , :age , :categoryId ,now())";
             this.id= (int) con.createQuery(sql, true)
                     .addParameter("rangername", this.rangerName)
                     .addParameter("category", this.category)
@@ -57,6 +77,7 @@ public class Report {
                     .addParameter("name", this.name)
                     .addParameter("health", this.health)
                     .addParameter("age", this.age)
+                    .addParameter("categoryId", this.categoryId)
                     .executeUpdate()
                     .getKey();
         }
@@ -77,6 +98,14 @@ public class Report {
             return con.createQuery(sql)
                     .addParameter("id", id)
                     .executeAndFetchFirst(Report.class);
+        }
+    }
+    public void update() {
+        try(Connection con = DB.sql2o.open()) {
+            String sql = "UPDATE sighting health = :update  WHERE id = :id;";
+            con.createQuery(sql)
+                    .addParameter("id", id)
+                    .executeUpdate();
         }
     }
 }

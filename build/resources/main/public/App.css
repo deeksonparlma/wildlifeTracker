@@ -1,0 +1,26 @@
+table td {
+    width:auto;
+    height:50px;
+    font-size: 2rem;
+    font-weight: 300;
+}
+table th {
+    font-size: 2rem;
+    font-weight: 300;
+}
+.time{
+width:100px;
+}
+
+.command{
+height:300px;
+width:400px;
+}
+#list{
+}
+#panels{
+padding-top:300px;
+}
+.holder{
+padding-right:50px;
+}

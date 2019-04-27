@@ -1,0 +1,65 @@
+$category.getType()
+
+<div class="row container">
+  <div class="col-md-6">
+    <form class="" action="/reports" method="post">
+     <label><strong>Ranger Name</strong></label>
+      <input type="text" name="rangername" class="form-control"><br>
+
+      <input type="hidden" name="categoryId" class="form-control" value="$category.getId()">
+      <input type="hidden" name="categoryId" class="form-control" value="$category.getId()">
+       <input type="hidden" name="category" class="form-control" value="$category.getType()">
+
+      <label><strong>Zone</strong></label>
+      <input type="text" name="zone" class="form-control"><br>
+
+      <label><strong>Name of Animal</strong></label>
+      <input type="text" name="name" class="form-control"><br>
+
+      <label><strong>Health</strong></label>
+      <input type="text" name="health" class="form-control"><br>
+
+      <label><strong>Age</strong></label>
+      <input type="text" name="age" class="form-control"><br>
+
+     <button type="submit">Add Animal</button>
+    </form>
+  </div>
+
+  <div class="col-md-6">
+    <table class="table-hover table-bordered">
+    <th>Ranger Name</th>
+    <th>Animal</th>
+    <th>Zone</th>
+    <th>Health</th>
+    <th>Age</th>
+    <th class="time"> Time </th>
+
+    #foreach($report in $reports)
+    <tr>
+     <td> $report.getRangerName()</td>
+     <td> $report.getName()</td>
+     <td> $report.getZone() </td>
+     <td> $report.getHealth() </td>
+     <td> $report.getAge() </td>
+     <td class="time"> $report.getTime() </td>
+     </tr>
+    #end
+    </table>
+    <br>
+    <br>
+    #if($reports)
+
+    <form action="/animal/check" method="post">
+
+        #foreach($report in $reports)
+        <input type="hidden" name="id" class="form-control" value="$report.getId()">
+        #end
+        <button type="submit">Delete</button>
+        #else
+
+        <p> Add an Animal</p>
+        #end
+    <form>
+  </div>
+</div>
