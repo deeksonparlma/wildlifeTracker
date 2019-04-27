@@ -39,7 +39,7 @@ public class Category {
     }
 
 
-    public List<Report> getClients() {
+    public List<Report> getReport() {
         try(Connection con = DB.sql2o.open()) {
             String sql = "SELECT * FROM sighting where categoryid=:id";
             return con.createQuery(sql)
