@@ -14,4 +14,28 @@ public class Report {
       this.health =health;
       this.age = age;
     }
+
+    public String getCategory() {
+        return category;
+    }
+
+    public String getRangerName() {
+        return rangerName;
+    }
+
+    public String getAge() {
+        return age;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getHealth() {
+        return health;
+    }
+
+    public String getZone() {
+        return zone;
+    }
 }
