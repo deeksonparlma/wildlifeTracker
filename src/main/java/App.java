@@ -57,6 +57,14 @@ public class App {
             return new ModelAndView(model, layout);
         }, new VelocityTemplateEngine());
 
+        get("/report/:id", (request, response) -> {
+            Map<String, Object> model = new HashMap<String, Object>();
+            Report report =Report.find(Integer.parseInt(request.params(":id")));
+            model.put("report", report);
+            model.put("template", "public/templates/report.vtl");
+            return new ModelAndView(model, layout);
+        }, new VelocityTemplateEngine());
+
         //post request//
         post("/categories", (request, response) -> {
             Map<String, Object> model = new HashMap<>();
@@ -87,6 +95,7 @@ public class App {
             HashMap<String, Object> model = new HashMap<String, Object>();
             Report animal = Report.find(Integer.parseInt(request.queryParams("id")));
             animal.delete();
+            animal.sort();
             model.put("reports", animal);
             model.put("template", "public/templates/proceed.vtl");
             return new ModelAndView(model, layout);

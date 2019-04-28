@@ -1,8 +1,8 @@
-$category.getType()
-
-<div class="row container">
-  <div class="col-md-6">
-    <form class="" action="/reports" method="post">
+<div class="row">
+  <div id="instruction" class="col-md-3"><br><br>
+   <label> $category.getType() </label>
+     <br>
+    <form class="grow" action="/reports" method="post">
      <label><strong>Ranger Name</strong></label>
       <input type="text" name="rangername" class="form-control"><br>
 
@@ -10,41 +10,65 @@ $category.getType()
       <input type="hidden" name="categoryId" class="form-control" value="$category.getId()">
        <input type="hidden" name="category" class="form-control" value="$category.getType()">
 
-      <label><strong>Zone</strong></label>
-      <input type="text" name="zone" class="form-control"><br>
+      <label><strong>Location</strong></label>
+      <select class="form-control" name="zone">
+        <option value="Zone A">Zone A</option>
+        <option value="Zone B">Zone B</option>
+        <option value="Zone C">Zone C</option>
+      </select><br>
 
       <label><strong>Name of Animal</strong></label>
       <input type="text" name="name" class="form-control"><br>
 
       <label><strong>Health</strong></label>
-      <input type="text" name="health" class="form-control"><br>
+      <select class="form-control" name="health">
+        <option value="healthy">healthy</option>
+        <option value="okay">okay</option>
+        <option value="ill">ill</option>
+      </select><br>
 
       <label><strong>Age</strong></label>
-      <input type="text" name="age" class="form-control"><br>
+      <select class="form-control" name="age">
+        <option value="New Born">New Born</option>
+        <option value="Young">Young</option>
+        <option value="Adult">Adult</option>
+      </select><br>
 
-     <button type="submit">Add Animal</button>
+     <button type="submit" class="btn btn-info">Add Animal</button>
     </form>
   </div>
 
-  <div class="col-md-6">
-    <table class="table-hover table-bordered">
-    <th>Ranger Name</th>
-    <th>Animal</th>
-    <th>Zone</th>
-    <th>Health</th>
-    <th>Age</th>
-    <th class="time"> Time </th>
-
+  <div  class="col-md-9">
+  <div class="nav">
+      <navbar><a class="cc" href="/">Home</a></navbar>
+      <navbar><a class="cc" href="/category/25">Endangered Animals</a></navbar>
+      <navbar><a class="cc" href="/category/26">Other Animals</a></navbar>
+     </div><br>
+    <table class="table table-hover table-stripped table-bordered table-sm animated rubberBand">
+    <thread>
+        <tr>
+            <th>Ranger Name</th>
+            <th>Animal</th>
+            <th>Location</th>
+            <th>Health</th>
+            <th>Age</th>
+            <th class="time"> Time </th>
+        <tr>
+    <thread>
+    <tbody>
     #foreach($report in $reports)
     <tr>
-     <td> $report.getRangerName()</td>
+
+     <td> <a href="/report/$report.getId()" title="click $report.getRangerName() to  view the whole report"> $report.getRangerName() </a></td>
      <td> $report.getName()</td>
      <td> $report.getZone() </td>
      <td> $report.getHealth() </td>
      <td> $report.getAge() </td>
      <td class="time"> $report.getTime() </td>
+
      </tr>
     #end
+    </tbody>
     </table>
     <br>
     <br>
@@ -55,11 +79,13 @@ $category.getType()
         #foreach($report in $reports)
         <input type="hidden" name="id" class="form-control" value="$report.getId()">
         #end
-        <button type="submit">Delete</button>
+        <!-- <button type="submit">Delete</button> -->
         #else
 
         <p> Add an Animal</p>
         #end
     <form>
   </div>
+
+
 </div>

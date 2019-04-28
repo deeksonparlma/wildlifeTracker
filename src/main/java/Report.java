@@ -92,6 +92,14 @@ public class Report {
                     .executeUpdate();
         }
     }
+
+    public void sort() {
+        try(Connection con = DB.sql2o.open()) {
+            String sql = "SELECT id,rangername,category,zone,name,health,age,categoryid,time FROM sighting  ORDER BY time DESC;";
+            con.createQuery(sql)
+                    .addParameter("id", id);
+        }
+    }
     public static Report find(int id) {
         try(Connection con =   DB.sql2o.open()) {
             String sql = "SELECT * FROM sighting where id = :id;";

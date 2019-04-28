@@ -6,7 +6,7 @@ table td {
 }
 table th {
     font-size: 2rem;
-    font-weight: 300;
+    font-weight: 900;
 }
 .time{
 width:100px;
@@ -14,13 +14,54 @@ width:100px;
 
 .command{
 height:300px;
-width:400px;
 }
 #list{
+padding-top:200px;
+font-size:40px;
 }
 #panels{
-padding-top:300px;
+padding-top:250px;
+scrollable
 }
 .holder{
 padding-right:50px;
+}
+#isType{
+padding-top:30px;
+}
+#view{
+height:600px;
+width:700px;
+margin:auto;
+}
+#fcd{
+padding-top:50px;
+}
+#instruction{
+background-color:green;
+height:620px;
+}
+navbar{
+margin-left:50px;
+font-size:20px;
+}
+.nav{
+background-color:green;
+height:60px;
+width:100%;
+}
+.cc{
+color:white;
+}
+.grow{
+padding-left:30px;
+}
+label,.fy{
+color:white;
+}
+body{
+width:100%:
+}
+#welcome{
+background-image:url("../images/web.jpg");
 }
