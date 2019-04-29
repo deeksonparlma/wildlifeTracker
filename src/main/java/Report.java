@@ -1,6 +1,7 @@
 import org.sql2o.Connection;
 
 import java.sql.Timestamp;
+import java.text.SimpleDateFormat;
 import java.util.Timer;
 
 public class Report {
@@ -11,11 +12,12 @@ public class Report {
     private String health;
     private String age;
     private int id;
+    private int animalCount;
     private int categoryId;
     private Timer timer;
     private Timestamp time;
-
-    public Report(String rangername,String category, String zone,String name,String health,String age,int categoryId){
+    public static final int ANIMAL_COUNT = 1;
+    public Report(String rangername,String category, String zone,String name,String health,String age,int categoryId, int count){
       this.rangerName = rangername;
       this.category = category;
       this.zone = zone;
@@ -24,6 +26,7 @@ public class Report {
       this.health =health;
       this.age = age;
       this.timer = new Timer();
+      this.animalCount = count;
     }
 
     public Timestamp getTime() {
@@ -58,6 +61,7 @@ public class Report {
         return zone;
     }
 
+
     public int getId() {
         return id;
     }
@@ -67,9 +71,15 @@ public class Report {
     }
     //functionality//
 
+    public int getAnimalCount() {
+        return animalCount;
+    }
+
+
+
     public void save() {
         try(Connection con = DB.sql2o.open()) {
-            String sql = "INSERT INTO sighting (rangername, category, zone, name, health, age, categoryid, time) VALUES (:rangername, :category, :zone, :name , :health , :age , :categoryId ,now())";
+            String sql = "INSERT INTO sighting (rangername, category, zone, name, health, age, categoryid, time , count) VALUES (:rangername, :category, :zone, :name , :health , :age , :categoryId ,now()  , :count ) " ;
             this.id= (int) con.createQuery(sql, true)
                     .addParameter("rangername", this.rangerName)
                     .addParameter("category", this.category)
@@ -78,6 +88,7 @@ public class Report {
                     .addParameter("health", this.health)
                     .addParameter("age", this.age)
                     .addParameter("categoryId", this.categoryId)
+                    .addParameter("count", this.animalCount)
                     .executeUpdate()
                     .getKey();
         }

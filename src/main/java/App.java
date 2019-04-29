@@ -84,8 +84,9 @@ public class App {
             String name = request.queryParams("name");
             String health = request.queryParams("health");
             String age = request.queryParams("age");
+            int count = Integer.parseInt(request.queryParams("count"));
 
-            Report newReport = new Report(rangername,type,zone,name,health,age,category);
+            Report newReport = new Report(rangername,type,zone,name,health,age,category,count);
             newReport.save();
             model.put("template", "public/templates/proceed.vtl");
             return new ModelAndView(model, layout);
