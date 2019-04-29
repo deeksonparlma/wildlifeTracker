@@ -2,109 +2,116 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8e8d079-d6a7-4292-98ed-d712717d8809" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../CeaserCypher/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CeaserCypher/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CeaserCypher/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CeaserCypher/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CeaserCypher/CeaserCypher.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../CeaserCypher/src/main/java/CeaserCypher/CeaserCypher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../E-restaurant/Restaurant" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Quiz-board" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../calc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../cloned-hello-world/hello-world-1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../cookie-recipe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../dj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../hotel-agency" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../hotel-website" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/js/jquery-3.3.1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../instamate/js/underscore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CeaserCipher/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CeaserCipher/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CeaserCipher/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../CeaserCipher/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PingPong/.idea/PingPong.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PingPong/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PingPong/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../database/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../database/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../database/src/main/java/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../database/src/main/resources/public/templates/index.vtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../database/src/main/resources/public/templates/layout.vtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hairSalon/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hairSalon/src/main/resources/public/templates/index.vtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hairSalon/src/main/resources/public/templates/layout.vtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hair_salon/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hair_salon/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hair_salon/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hair_salon/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../hair_salon/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../salon/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../salon/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../salon/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../salon/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../salon/src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../salon/src/main/java/stylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../salon/src/main/resources/public/templates/index.vtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../salon/src/main/resources/public/templates/layout.vtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../salon/src/main/resources/public/templates/stylists.vtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/main/java/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/main/java/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/main/java/Squad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/main/resources/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/main/resources/public/templates/index.vtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../src/main/resources/public/templates/layout.vtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../virtual-pets/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../virtual-pets/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../virtual-pets/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../virtual-pets/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../virtual-pets/src/main/java/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../virtual-pets/src/main/java/FireMonster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../virtual-pets/src/main/java/Monster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../virtual-pets/src/main/java/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../virtual-pets/src/main/java/WaterMonster.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../memeflix" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../my-first-webpage" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../mysite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../news-article" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../onlinehotel/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../onlinehotel/hotel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../onlinehotel/hotel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../personality-check" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pet-website" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../photography" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../pig-dice" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../portfolio" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../project1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../qrcode/qrcodejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../resume/my-resume" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../shop" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../travel-agency" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../triangle-tracker" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../wildcats" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CeaserCypher/src/main/java/CeaserCypher/CeaserCypher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../CeaserCypher/src/main/java/CeaserCypher/CeaserCypher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../E-restaurant/Restaurant" beforeDir="false" afterPath="$PROJECT_DIR$/../../E-restaurant/Restaurant" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/e2e/tsconfig.e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/app/app.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/browserslist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/src/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Quotes/Quotes/tslint.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../instamate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../instamate/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/.idea/libraries/Gradle__com_google_guava_failureaccess_1_0_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/.idea/libraries/Gradle__com_google_guava_guava_27_0_1_jre.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/.idea/libraries/Gradle__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/.idea/libraries/Gradle__org_checkerframework_checker_qual_2_5_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_17.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CeaserCipher/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CeaserCipher/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/.idea/modules/CeaserCipher.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/.idea/modules/CeaserCipher.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CeaserCipher/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CeaserCipher/CeaserCipher.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PingPong/.idea/modules/PingPong.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PingPong/.idea/modules/PingPong.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../database/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/src/main/java/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../database/src/main/java/DB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/src/main/resources/public/templates/index.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/../database/src/main/resources/public/templates/index.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/src/main/resources/public/templates/layout.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/../database/src/main/resources/public/templates/layout.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hairSalon/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hairSalon/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hairSalon/src/main/resources/public/templates/index.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/../hairSalon/src/main/resources/public/templates/index.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hairSalon/src/main/resources/public/templates/layout.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/../hairSalon/src/main/resources/public/templates/layout.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hair_salon/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hair_salon/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hair_salon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hair_salon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hair_salon/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hair_salon/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hair_salon/src/main/java/Stylist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../salon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salon/src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../salon/src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salon/src/main/java/stylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../salon/src/main/java/stylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salon/src/main/resources/public/templates/index.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/../salon/src/main/resources/public/templates/index.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salon/src/main/resources/public/templates/layout.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/../salon/src/main/resources/public/templates/layout.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../salon/src/main/resources/public/templates/stylists.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/../salon/src/main/resources/public/templates/stylists.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/Squad.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/Squad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/public/templates/index.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/resources/public/templates/index.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/resources/public/templates/layout.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/resources/public/templates/layout.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtual-pets/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../virtual-pets/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtual-pets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../virtual-pets/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtual-pets/src/main/java/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../virtual-pets/src/main/java/DB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtual-pets/src/main/java/FireMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/../virtual-pets/src/main/java/FireMonster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtual-pets/src/main/java/Monster.java" beforeDir="false" afterPath="$PROJECT_DIR$/../virtual-pets/src/main/java/Monster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtual-pets/src/main/java/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../virtual-pets/src/main/java/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virtual-pets/src/main/java/WaterMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/../virtual-pets/src/main/java/WaterMonster.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/public/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/public/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/main/public/templates/category.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/templates/category.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/public/templates/category.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/public/templates/category.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity.log.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mailto/indes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../my-first-webpage" beforeDir="false" afterPath="$PROJECT_DIR$/../../my-first-webpage" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../photography" beforeDir="false" afterPath="$PROJECT_DIR$/../../photography" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pig-dice" beforeDir="false" afterPath="$PROJECT_DIR$/../../pig-dice" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../qrcode/qrcodejs" beforeDir="false" afterPath="$PROJECT_DIR$/../../qrcode/qrcodejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shop" beforeDir="false" afterPath="$PROJECT_DIR$/../../shop" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -129,44 +136,24 @@
     <favorites_list name="wildlifeTracker" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/public/templates/proceed.vtl">
-          <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+              <caret selection-end-line="35" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Report.java">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="89" column="53" selection-start-line="89" selection-start-column="53" selection-end-line="89" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#757#758#0" expanded="true" />
-                <element signature="e#784#785#0" expanded="true" />
-                <element signature="e#815#816#0" expanded="true" />
-                <element signature="e#843#844#0" expanded="true" />
-                <element signature="e#1186#1187#0" expanded="true" />
-                <element signature="e#1213#1214#0" expanded="true" />
-                <element signature="e#1542#1543#0" expanded="true" />
-                <element signature="e#1576#1577#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="15" column="14" selection-end-line="33" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -174,7 +161,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ReportTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
+            <state relative-caret-position="990">
               <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
             </state>
           </provider>
@@ -183,8 +170,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/public/templates/layout.vtl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="146" selection-start-line="4" selection-start-column="146" selection-end-line="4" selection-end-column="146" />
+            <state relative-caret-position="225">
+              <caret line="15" column="14" lean-forward="true" selection-end-line="15" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -192,8 +179,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Category.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            <state relative-caret-position="120">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -201,10 +188,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/CategoryTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
+            <state relative-caret-position="450">
               <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
             </state>
           </provider>
@@ -222,17 +209,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/public/templates/category.vtl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="70" column="34" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
+            <state relative-caret-position="720">
+              <caret line="48" column="112" selection-start-line="48" selection-start-column="112" selection-end-line="48" selection-end-column="112" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/public/App.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            <state relative-caret-position="960">
+              <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/public/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="3" lean-forward="true" selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -257,21 +253,21 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/DB.java" />
         <option value="$PROJECT_DIR$/src/main/resources/public/templates/category-form.vtl" />
-        <option value="$PROJECT_DIR$/src/main/resources/public/App.js" />
-        <option value="$PROJECT_DIR$/src/main/resources/public/App.css" />
         <option value="$PROJECT_DIR$/src/main/resources/public/templates/category-list.vtl" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/src/main/resources/public/templates/report.vtl" />
-        <option value="$PROJECT_DIR$/src/main/resources/public/templates/category.vtl" />
         <option value="$PROJECT_DIR$/src/main/java/Category.java" />
         <option value="$PROJECT_DIR$/src/main/java/Report.java" />
         <option value="$PROJECT_DIR$/src/main/resources/public/templates/layout.vtl" />
-        <option value="$PROJECT_DIR$/src/main/java/App.java" />
         <option value="$PROJECT_DIR$/src/main/resources/public/templates/proceed.vtl" />
         <option value="$PROJECT_DIR$/src/test/java/ReportTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/CategoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/App.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/public/App.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/public/App.css" />
+        <option value="$PROJECT_DIR$/src/main/resources/public/templates/category.vtl" />
       </list>
     </option>
   </component>
@@ -289,6 +285,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -358,7 +355,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -415,8 +411,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49892932" visible="true" weight="0.30151516" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49892932" visible="true" weight="0.31136364" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -425,12 +422,12 @@
       <window_info id="Favorites" order="6" sideWeight="0.50121653" weight="0.2969697" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.262215" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28338763" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3306189" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32899022" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.46579805" />
@@ -478,25 +475,11 @@
     <entry file="file://$PROJECT_DIR$/gradlew">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/templates/index.vtl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/public/App.cs" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
           <caret line="49" column="10" lean-forward="true" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Procfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="56" selection-start-column="56" selection-end-column="56" />
         </state>
       </provider>
     </entry>
@@ -507,20 +490,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="58" column="9" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/public/templates/report.vtl">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -528,7 +497,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/templates/category-list.vtl">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/templates/index.vtl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
@@ -545,10 +514,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/Procfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        <state>
+          <caret column="56" selection-start-column="56" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/templates/proceed.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Report.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="89" column="53" selection-start-line="89" selection-start-column="53" selection-end-line="89" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="35" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ReportTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/CategoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -559,76 +579,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/templates/layout.vtl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="146" selection-start-line="4" selection-start-column="146" selection-end-line="4" selection-end-column="146" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/public/templates/category.vtl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="70" column="34" selection-start-line="70" selection-start-column="34" selection-end-line="70" selection-end-column="34" />
+        <state relative-caret-position="720">
+          <caret line="48" column="112" selection-start-line="48" selection-start-column="112" selection-end-line="48" selection-end-column="112" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/App.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/App.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="90" column="59" selection-start-line="90" selection-start-column="59" selection-end-line="90" selection-end-column="59" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="960">
+          <caret line="64" column="9" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/templates/proceed.vtl">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+        <state relative-caret-position="190">
+          <caret line="15" column="14" selection-end-line="33" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Report.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/templates/layout.vtl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
-          <caret line="89" column="53" selection-start-line="89" selection-start-column="53" selection-end-line="89" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#784#785#0" expanded="true" />
-            <element signature="e#815#816#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
-            <element signature="e#1186#1187#0" expanded="true" />
-            <element signature="e#1213#1214#0" expanded="true" />
-            <element signature="e#1542#1543#0" expanded="true" />
-            <element signature="e#1576#1577#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="15" column="14" lean-forward="true" selection-end-line="15" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ReportTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="68" column="5" selection-start-line="68" selection-start-column="5" selection-end-line="68" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Category.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CategoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="true" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
