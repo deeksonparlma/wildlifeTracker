@@ -12,11 +12,11 @@ public class Report {
     private String health;
     private String age;
     private int id;
-    private int animalCount;
+    private int count;
     private int categoryId;
     private Timer timer;
     private Timestamp time;
-    public static final int ANIMAL_COUNT = 1;
+    public static final int ANIMAL_COUNT = 0;
     public Report(String rangername,String category, String zone,String name,String health,String age,int categoryId, int count){
       this.rangerName = rangername;
       this.category = category;
@@ -26,7 +26,7 @@ public class Report {
       this.health =health;
       this.age = age;
       this.timer = new Timer();
-      this.animalCount = count;
+      this.count = count;
     }
 
     public Timestamp getTime() {
@@ -71,11 +71,10 @@ public class Report {
     }
     //functionality//
 
+
     public int getAnimalCount() {
-        return animalCount;
+        return count += ANIMAL_COUNT;
     }
-
-
 
     public void save() {
         try(Connection con = DB.sql2o.open()) {
@@ -88,7 +87,7 @@ public class Report {
                     .addParameter("health", this.health)
                     .addParameter("age", this.age)
                     .addParameter("categoryId", this.categoryId)
-                    .addParameter("count", this.animalCount)
+                    .addParameter("count", this.count)
                     .executeUpdate()
                     .getKey();
         }

@@ -16,6 +16,7 @@ public class Category {
 
 
 
+
     //overrides//
 
     @Override
@@ -40,7 +41,7 @@ public class Category {
 
     public  List<Report> getReport() {
         try(Connection con = DB.sql2o.open()) {
-            String sql = "SELECT id,rangername,category,zone,name,health,age,time  FROM sighting where categoryid=:id";
+            String sql = "SELECT *  FROM sighting where categoryid=:id";
             return con.createQuery(sql)
                     .addParameter("id", this.id)
                     .executeAndFetch(Report.class);
